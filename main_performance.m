@@ -1,3 +1,7 @@
+%Fast Kalman Filter for Attitude Estimation
+%author: Jin Wu
+%e-mail: jin_wu_uestc@hotmail.com
+
 clear all;
 close all;
 clc;
