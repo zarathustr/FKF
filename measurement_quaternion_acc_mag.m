@@ -1,3 +1,7 @@
+%Fast Kalman Filter for Attitude Estimation
+%author: Jin Wu
+%e-mail: jin_wu_uestc@hotmail.com
+
 function [q,Jacob]=measurement_quaternion_acc_mag(acc,mag,mag_r,q_)
 
 ax=acc(1);  ay=acc(2);  az=acc(3);
